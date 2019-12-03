@@ -1,0 +1,9 @@
+Mus spil med pebbernødder
+The user entered: 0
+The user entered: 1
+The user entered: 2
+The user entered: 3
+The user entered: 4
+The user entered: 5
+The user entered: 6
+Game Over
